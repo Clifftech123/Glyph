@@ -1,0 +1,3 @@
+Hello from Glyph! Here are some emojis: 🚀🔥✨🎉
+Unicode test: cafe, naif, resume
+Numbers: 12345 and symbols: @#$%^&*
